@@ -1,0 +1,1 @@
+"./uart.obj" "./thread.obj" "./testcase.obj" "./systick.obj" "./process.obj" "./memory.obj" "./main.obj" "./lm3s9d92_startup_ccs.obj" "./cursor.obj" "./clock.obj" "./SVCCall.obj" "./Queue.obj" "./PriorityQueue.obj" "./PendSVHandler.obj" "./PcbQueue.obj" "./Kernel.obj" "./ControlSoftware.obj" "../lm3s9d92.cmd" -l"libc.a" 
